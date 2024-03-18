@@ -3,4 +3,4 @@
 
 INSERT INTO users (username, password_hash, email, created_at, updated_at)
 VALUES 
-('demoUser', '$2b$10$MOaSMD3eMMDK2jc4lBYHS.OF59aSr4uD4bfVFPqQz/zZn6XUfOYw', 'demo@example.com', NOW(), NOW());
+('demo', '$2b$10$htT.CuMJRbV4USLqQPCG1.iS0oci1az7xDs4GGCApb5h/cWMlcjUG', 'demo@example.com', NOW(), NOW());
